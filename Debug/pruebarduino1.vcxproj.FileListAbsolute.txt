@@ -1,0 +1,3 @@
+C:\Users\E7440\OneDrive\Documentos\progra\proyecto final sql\arduino\pruebarduino1\Debug\pruebarduino1.exe
+C:\Users\E7440\OneDrive\Documentos\progra\proyecto final sql\arduino\pruebarduino1\Debug\pruebarduino1.pdb
+C:\Users\Usuaria\Music\proyectos\pruebarduino1\Debug\pruebarduino1.exe
